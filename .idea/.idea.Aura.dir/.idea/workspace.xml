@@ -10,6 +10,17 @@
     <list default="true" id="8858114c-2317-44df-889d-014d24240b4a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Characters/Aura/SKM_Aura.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Characters/Aura/SKM_Aura.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Characters/Aura/SK_Aura.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Characters/Aura/SK_Aura.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Enemies/Goblin/SK_Goblin.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Enemies/Goblin/SK_Goblin.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Materials/PP_Highlight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Materials/PP_Highlight.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Aura.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Aura.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AuraCharacterBase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AuraCharacterBase.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CoverGame/Content/Maps/GameLevel.umap" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CoverGame/Content/Maps/GameLevel_HLOD0_Instancing.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CoverGame/CoverGame.uproject" beforeDir="false" />
@@ -1356,10 +1367,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2kxhAHspzBf0FcAWIKFrvx5bMis" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -1369,7 +1380,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Uproject.Aura.executor": "Debug",
+    "Uproject.Aura.executor": "Run",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -1567,7 +1578,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724230991620</updated>
-      <workItem from="1724230994071" duration="899000" />
+      <workItem from="1724230994071" duration="5151000" />
+      <workItem from="1724240077704" duration="6817000" />
     </task>
     <servers />
   </component>
