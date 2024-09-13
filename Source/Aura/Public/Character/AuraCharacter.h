@@ -1,4 +1,4 @@
-
+// Copyright Druid Mechanics
 
 #pragma once
 
@@ -15,5 +15,4 @@ class AURA_API AAuraCharacter : public AAuraCharacterBase
 	GENERATED_BODY()
 public:
 	AAuraCharacter();
-	
 };
